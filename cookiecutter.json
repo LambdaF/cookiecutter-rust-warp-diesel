@@ -1,0 +1,5 @@
+{
+  "project_name": "rusty-warp",
+  "postgres_db_url": "postgres://postgres:postgres@localhost:5432/rust",
+  "initial_db_table_name": "items"
+}
